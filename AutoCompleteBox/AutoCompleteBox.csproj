@@ -170,9 +170,6 @@
     <Reference Include="GalaSoft.MvvmLight.Extras">
       <HintPath>..\libraries\GalaSoft.MvvmLight.Extras.dll</HintPath>
     </Reference>
-    <Reference Include="GalaSoft.MvvmLight.Platform">
-      <HintPath>..\libraries\GalaSoft.MvvmLight.Platform.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Practices.ServiceLocation">
       <HintPath>..\libraries\Microsoft.Practices.ServiceLocation.dll</HintPath>
     </Reference>
