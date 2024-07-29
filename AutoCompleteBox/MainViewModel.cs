@@ -28,7 +28,7 @@ namespace AutoCompleteBox
         {
             PlayersList = new ObservableCollection<PlayerModel>
             {
-                new PlayerModel {Id = 1, Name = "Wassim AZIRAR"},
+                new PlayerModel {Id = 1, Name = "Captain Steel"},
                 new PlayerModel {Id = 2, Name = "Novak Djokovic"},
                 new PlayerModel {Id = 3, Name = "Andy Murray"},
                 new PlayerModel {Id = 4, Name = "Roger Federer"},
